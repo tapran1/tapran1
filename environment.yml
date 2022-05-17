@@ -1,0 +1,30 @@
+name: Tapran1
+channels:
+  - conda-forge
+dependencies:
+  # Core scientific python
+    - geemap
+    - cartopy
+    - datapane
+    - flask>=2.0.0
+    - flask-caching
+    - gdal
+    - geemap>=0.11.0
+    - geopandas
+    - imageio
+    - ipyvtklink
+    - keplergl
+    - laspy
+    - leafmap>=0.7.2
+    - localtileserver>=0.4.0
+    - osmnx
+    - pip
+    - pydeck
+    - pyntcloud
+    - python>=3.8
+    - pyvista
+    - requests
+    - rio-cogeo
+    - tifffile
+    - xarray_leaflet
+#  - python=3.6
